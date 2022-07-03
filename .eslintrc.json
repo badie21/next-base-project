@@ -21,7 +21,8 @@
         "extensions": [".js", ".jsx", ".ts", ".tsx"]
       }
     ],
-    "react/jsx-props-no-spreading": 0
+    "react/jsx-props-no-spreading": 0,
+    "react/function-component-definition": "off"
   },
   "ignorePatterns": ["/node_modules/**", "/build/**"]
 }
